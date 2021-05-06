@@ -1,3 +1,3 @@
 # Java Lang
- Repositório de Linguagem Java para pequenos sistemas e projetos pessoais de aperfeiçoamento.
+ Repositório de testes, projetos e estudos na Linguagem Java para pequenos sistemas e projetos pessoais de aperfeiçoamento.
  
